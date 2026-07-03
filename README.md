@@ -8,7 +8,7 @@
 - Техники: zero-shot, few-shot, Chain-of-Thought
 
 ## 📂 Содержание
-[prompt.md](./prompt.md)
+**Ссылка на документ:** [prompt.md](./prompt.md)
 
 ## 📝 Источник
 Бесплатный курс по **AI-prompting** от **Sololearn**:
