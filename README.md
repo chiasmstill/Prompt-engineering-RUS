@@ -11,7 +11,7 @@
 [prompt.md](./prompt.md)
 
 ## 📝 Источник
-Бесплатный курс по **prompt-engineering** от **Sololearn**:
+Бесплатный курс по **AI-prompting** от **Sololearn**:
 _https://www.sololearn.com/ru/learn/courses/ai-prompting?location=2_
 
 ## 🛠️ Для кого
