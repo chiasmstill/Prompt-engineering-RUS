@@ -22,5 +22,8 @@ _https://www.sololearn.com/ru/learn/courses/ai-prompting?location=2_
 ## 📄 Формат
 Markdown, GitHub.
 
+## 📷 Примеры
+Для примеров техник запросов использовался Deepseek.
+
 ## 📌 Статус 
 Завершён.
